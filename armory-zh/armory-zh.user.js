@@ -14,8 +14,8 @@
 // @connect      raw.githubusercontent.com
 // @connect      github.com
 // @noframes
-// @updateURL    https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh.user.js
-// @downloadURL  https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh.user.js
+// @updateURL    https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh/armory-zh.user.js
+// @downloadURL  https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh/armory-zh.user.js
 // ==/UserScript==
 
 /**
@@ -140,7 +140,7 @@
   };
 
   var DICT = DEFAULT_DICT;
-  var DICT_URL = 'https://raw.githubusercontent.com/iwvw-per/armory-zh/master/dict.json'; // ← 改成你的仓库地址
+  var DICT_URL = 'https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh/dict.json'; // ← 改成你的仓库地址
 
   var processed = new WeakSet();
 
