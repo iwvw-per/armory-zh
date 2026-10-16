@@ -1,6 +1,6 @@
 // ==UserScript==
-// @name         战舰世界(海服)军械库 汉化 · Korabli Armory zh-CN
-// @name:zh-CN   战舰世界(海服)军械库 汉化
+// @name         战舰世界(莱斯塔服)军械库 汉化 · Korabli Armory zh-CN
+// @name:zh-CN   战舰世界(莱斯塔服)军械库 汉化
 // @name:ru      Коробли Армори перевод на китайский
 // @namespace    https://github.com/iwvw-per/armory-zh
 // @version      1.0.0

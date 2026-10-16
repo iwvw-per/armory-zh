@@ -1,4 +1,4 @@
-# armory-zh · 战舰世界(海服)军械库汉化油猴脚本
+# armory-zh · 战舰世界(莱斯塔服)军械库汉化油猴脚本
 
 对 **Lesta《战舰世界》(Korabli)** 俄区军械库网站 `armory.korabli.su` 进行简体中文汉化。
 
