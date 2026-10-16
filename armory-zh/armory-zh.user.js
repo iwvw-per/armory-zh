@@ -2,7 +2,7 @@
 // @name         战舰世界(海服)军械库 汉化 · Korabli Armory zh-CN
 // @name:zh-CN   战舰世界(海服)军械库 汉化
 // @name:ru      Коробли Армори перевод на китайский
-// @namespace    https://github.com/USERNAME/armory-zh
+// @namespace    https://github.com/iwvw-per/armory-zh
 // @version      1.0.0
 // @description  Lesta 战舰世界(Korabli)军械库 armory.korabli.su 完整汉化。直接加载站点自带的官方简体中文语言包，并支持通过在线词典热更新剩余游戏术语（货币/国家/舰船类型等）。
 // @description:zh-CN  Lesta 战舰世界(Korabli)军械库 armory.korabli.su 完整汉化。直接加载站点自带的官方简体中文语言包，并支持通过在线词典热更新剩余游戏术语（货币/国家/舰船类型等）。
@@ -14,8 +14,8 @@
 // @connect      raw.githubusercontent.com
 // @connect      github.com
 // @noframes
-// @updateURL    https://raw.githubusercontent.com/USERNAME/armory-zh/main/armory-zh.user.js
-// @downloadURL  https://raw.githubusercontent.com/USERNAME/armory-zh/main/armory-zh.user.js
+// @updateURL    https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh.user.js
+// @downloadURL  https://raw.githubusercontent.com/iwvw-per/armory-zh/master/armory-zh.user.js
 // ==/UserScript==
 
 /**
@@ -140,7 +140,7 @@
   };
 
   var DICT = DEFAULT_DICT;
-  var DICT_URL = 'https://raw.githubusercontent.com/USERNAME/armory-zh/main/dict.json'; // ← 改成你的仓库地址
+  var DICT_URL = 'https://raw.githubusercontent.com/iwvw-per/armory-zh/master/dict.json'; // ← 改成你的仓库地址
 
   var processed = new WeakSet();
 
